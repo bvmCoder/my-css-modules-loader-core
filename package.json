@@ -1,0 +1,18 @@
+{
+  "name": "my-css-modules-loader-core",
+  "version": "0.0.2",
+  "description": "A loader-agnostic CSS Modules implementation, based on PostCSS",
+  "main": "index.js",
+  "homepage": "",
+  "license": "MIT",
+  "dependencies": {
+    "colors": "~1.1.2",
+    "icss-replace-symbols": "1.0.2",
+    "less": "~2.7.1",
+    "postcss": "5.2.5",
+    "postcss-modules-values": "1.2.2",
+    "postcss-modules-extract-imports": "1.0.1",
+    "postcss-modules-local-by-default": "1.1.1",
+    "postcss-modules-scope": "1.0.2"
+  }
+}
